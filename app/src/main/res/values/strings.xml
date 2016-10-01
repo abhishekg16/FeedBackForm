@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FeedBackForm</string>
+    <string name="feedbacktitle">Enter Feedback</string>
+    <string name="feedbackname">Enter Name</string>
+    <string name="feedbackemail">Enter Mail Address</string>
+    <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Gripe</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Bug</string>
+    <string name="feedbackbody">Message</string>
+    <string name="feedbackbutton">Send</string>
+    <string name="pTitle">Feed Back Preview</string>
+    <string name="PreviewTopText">Verify Your Inputs</string>
+    <string name="preview_name">Name</string>
+    <string name="preview_email">Email</string>
+    <string name="preview_msg">Message</string>
+    <string name="preview_checkbox1">I accept term and condition</string>
+    <string name="preview_checkbox2">Allow I Care to use my data</string>
+
+    preview_name
+
+</resources>
